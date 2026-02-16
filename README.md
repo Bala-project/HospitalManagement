@@ -15,7 +15,7 @@ A basic Hospital Management System built with Java and MySQL ,perform CRUD opera
 
 - **Programming Language:** Java
 - **Database:** MySQL
-- **IDE:** Visual Studio Code (VS Code)
+- **IDE:** Eclipse IDE
 - **JDBC Driver:** MySQL Connector/J
 
 ---
@@ -87,8 +87,8 @@ A basic Hospital Management System built with Java and MySQL ,perform CRUD opera
      ```
 4. **Compile and Run:**
    ```bash
-   javac -cp ".;lib/mysql-connector-j-9.1.0.jar" src/*.java
-   java -cp ".;lib/mysql-connector-j-9.1.0.jar;src" HospitalManagement
+   javac -cp ".;lib/mysql-connector-j-8.0.31.jar" src/*.java
+   java -cp ".;lib/mysql-connector-j-8.0.31.jar;src" HospitalManagement
    ```
 
 ---
